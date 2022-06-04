@@ -1,2 +1,3 @@
 # clothing-choice
-Clothing picker based on wardrobe selection written in Python.
+Clothing picker based on personalized wardrobe selection. Written in Python. 
+
